@@ -69,3 +69,7 @@ The sensor readings are processed by Arduino and compared with a predefined thre
 Completed
 
 The prototype successfully demonstrates water-level monitoring, threshold-based flood detection, LCD display, buzzer and LED alerts, and mobile notifications.
+
+## Project Prototype
+
+![Flood Monitoring Prototype](flood%20monitoring%20image.jpeg)
